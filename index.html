@@ -1,0 +1,405 @@
+
+<html>
+<head>
+<title>PixVoxel Demo</title>
+<style type="text/css">
+img {border:none; padding: 0px; margin-top: 20px;padding-right: 40px; outline: none;}
+.big img {border:none; padding: 0px; margin-top: 48px;margin-right: 128px;margin-left: -40px; outline: none;}
+.huge img {border:none; padding: 0px; padding-bottom: -40px; margin-top: -40px;margin-right: 128px;margin-left: -80px; outline: none;}
+.massive img {border:none; padding: 0px; margin-top: -40px;margin-right: 88px;margin-left: -120px; outline: none;}
+
+body {
+	background-image: url(tiling_flat.png);
+	background-position: -40px 0px;
+	margin: 0;
+}
+td, tr { padding: 0px; margin: 0px; height: 128px;border: none; }
+table { border-collapse: collapse; display: inline; margin: 0px 0px 0px 124px;}
+.blackout {background: #333; width: 60%; margin:auto;}
+p {color: #fff; background: #333; font-family: 'Arial';}
+a {color: #f40; background: #333; font-family: 'Arial';}
+p, a {color: #fff; font-family: "Arial"; font-weight: bold; background-color: #444; text-align: center; }
+.gap
+{
+	margin-bottom: 0px;
+	font-size: 20px;
+	margin-left: -100px;
+	min-height: 0px;
+	max-height: 0px;
+	width: 100px;
+	position: relative;
+	overflow:visible;
+	display: inline-block;
+}
+.grid
+{
+	padding: 100px;
+}
+.row
+{
+	min-height: 96px;
+	max-height: 96px;
+	width: 100%;
+	position: relative;
+	font-size: 0px;
+	overflow:visible;
+}
+.bigrow
+{
+	min-height: 192px;
+	max-height: 192px;
+	width: 100%;
+	position: relative;
+	font-size: 0px;
+	overflow:visible;
+}
+.big
+{
+	margin-left: 10px;
+}
+.isotile
+{
+	position: relative;
+	display: inline-block;
+	width: 128px;
+	height: 128px;
+	margin-top: -64px;
+}
+.bigtile
+{
+	position: relative;
+	display: inline-block;
+	width: 128px;
+	height: 128px;
+	margin-top: -112px;
+	top: -112px;
+}
+.tritile
+{
+	position: relative;
+	display: inline-block;
+	width: 128px;
+	height: 128px;
+	margin-left: 48px;
+	margin-top: -180px;
+	top: 48px;
+}
+.massive
+{
+	position: relative;
+	display: inline-block;
+	width: 256px;
+	height: 128px;
+	margin-left: 128px;
+	margin-top: -88px;
+	top: -8px;
+}
+.row:nth-of-type(2n-1)
+{
+	margin-left: 64px;
+}
+.bigtile:nth-of-type(2n-1)
+{
+	top: -48px;
+}
+</style>
+</head>
+<body>
+<div class="grid">
+<div class="bigrow" >
+<div class="big">
+<div class="bigtile"><img src="species/palette10_Nodebpe_Walk_Huge_animated.gif" /></div>
+<div class="bigtile"><img src="species/palette10_Nodebpe_Huge_animated.gif" /></div>
+<div class="bigtile"><img src="species/Nodebpe_Huge_face0_0.png" /></div>
+<div class="bigtile"><img src="species/Nodebpe_Huge_face1_0.png" /></div>
+<div class="bigtile"><img src="species/Nodebpe_Huge_face2_0.png" /></div>
+<div class="bigtile"><img src="species/Nodebpe_Huge_face3_0.png" /></div>
+<div class="massive"><img src="species/palette10_Nodebpe_explosion_animated.gif" /></div>
+</div>
+</div>
+<div class="bigrow" >
+<div class="big">
+<div class="bigtile"><img src="species/palette19_Vashk_Walk_Huge_animated.gif" /></div>
+<div class="bigtile"><img src="species/palette19_Vashk_Huge_animated.gif" /></div>
+<div class="bigtile"><img src="species/Vashk_Huge_face0_0.png" /></div>
+<div class="bigtile"><img src="species/Vashk_Huge_face1_0.png" /></div>
+<div class="bigtile"><img src="species/Vashk_Huge_face2_0.png" /></div>
+<div class="bigtile"><img src="species/Vashk_Huge_face3_0.png" /></div>
+<div class="massive"><img src="species/palette19_Vashk_explosion_animated.gif" /></div>
+</div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette11_Tassar_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette11_Tassar_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Tassar_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Tassar_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Tassar_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Tassar_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette11_Tassar_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette12_Ilapa_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette12_Ilapa_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Ilapa_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Ilapa_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Ilapa_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Ilapa_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette12_Ilapa_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette13_Kurguiv_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette13_Kurguiv_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Kurguiv_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Kurguiv_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Kurguiv_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Kurguiv_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette13_Kurguiv_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette0_Human_Male_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette0_Human_Male_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette0/Human_Male_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette0/Human_Male_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette0/Human_Male_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette0/Human_Male_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette0_Human_Male_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette1_Human_Male_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette1_Human_Male_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette1/Human_Male_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette1/Human_Male_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette1/Human_Male_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette1/Human_Male_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette1_Human_Male_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette15_Human_Male_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette15_Human_Male_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette15/Human_Male_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette15/Human_Male_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette15/Human_Male_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette15/Human_Male_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette15_Human_Male_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette16_Human_Male_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette16_Human_Male_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette16/Human_Male_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette16/Human_Male_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette16/Human_Male_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette16/Human_Male_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette16_Human_Male_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette17_Human_Male_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette17_Human_Male_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette17/Human_Male_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette17/Human_Male_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette17/Human_Male_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette17/Human_Male_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette17_Human_Male_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette0_Human_Female_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette0_Human_Female_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette0/Human_Female_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette0/Human_Female_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette0/Human_Female_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette0/Human_Female_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette0_Human_Female_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette1_Human_Female_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette1_Human_Female_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette1/Human_Female_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette1/Human_Female_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette1/Human_Female_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette1/Human_Female_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette1_Human_Female_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette15_Human_Female_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette15_Human_Female_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette15/Human_Female_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette15/Human_Female_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette15/Human_Female_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette15/Human_Female_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette15_Human_Female_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette16_Human_Female_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette16_Human_Female_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette16/Human_Female_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette16/Human_Female_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette16/Human_Female_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette16/Human_Female_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette16_Human_Female_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette17_Human_Female_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette17_Human_Female_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette17/Human_Female_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/palette17/Human_Female_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/palette17/Human_Female_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/palette17/Human_Female_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette17_Human_Female_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette14_Erezdo_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette14_Erezdo_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Erezdo_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Erezdo_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Erezdo_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Erezdo_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette14_Erezdo_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette18_Cerpali_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette18_Cerpali_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Cerpali_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Cerpali_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Cerpali_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Cerpali_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette18_Cerpali_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette20_Lomuk_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette20_Lomuk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Lomuk_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Lomuk_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Lomuk_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Lomuk_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette20_Lomuk_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<div class="isotile"><img src="species/palette21_Glarosp_Walk_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/palette21_Glarosp_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Glarosp_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Glarosp_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Glarosp_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Glarosp_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette21_Glarosp_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette22_Pelmir_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette22_Pelmir_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Pelmir_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Pelmir_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Pelmir_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Pelmir_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette22_Pelmir_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette23_Uljir_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette23_Uljir_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Uljir_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Uljir_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Uljir_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Uljir_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette23_Uljir_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette24_Sfyst_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette24_Sfyst_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Sfyst_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Sfyst_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Sfyst_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Sfyst_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette24_Sfyst_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette25_Eidolon_Light_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette25_Eidolon_Light_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Light_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Light_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Light_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Light_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette25_Eidolon_Light_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette26_Eidolon_Atomic_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette26_Eidolon_Atomic_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Atomic_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Atomic_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Atomic_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Atomic_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette26_Eidolon_Atomic_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette27_Eidolon_Dark_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette27_Eidolon_Dark_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Dark_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Dark_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Dark_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Dark_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette27_Eidolon_Dark_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette28_Eidolon_Kinetic_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette28_Eidolon_Kinetic_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Kinetic_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Kinetic_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Kinetic_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Kinetic_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette28_Eidolon_Kinetic_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette29_Eidolon_Fire_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette29_Eidolon_Fire_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Fire_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Fire_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Fire_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Fire_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette29_Eidolon_Fire_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette30_Eidolon_Cold_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette30_Eidolon_Cold_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Cold_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Cold_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Cold_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Cold_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette30_Eidolon_Cold_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette31_Eidolon_Water_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette31_Eidolon_Water_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Water_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Water_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Water_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Water_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette31_Eidolon_Water_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette32_Eidolon_Electric_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette32_Eidolon_Electric_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Electric_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Electric_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Electric_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Electric_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette32_Eidolon_Electric_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette33_Eidolon_Earth_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette33_Eidolon_Earth_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Earth_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Earth_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Earth_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Earth_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette33_Eidolon_Earth_explosion_animated.gif" /></div>
+</div>
+<div class="row" >
+<!--<div class="isotile"><img src="species/palette34_Eidolon_Air_Walk_Large_animated.gif" /></div>-->
+<div class="isotile"><img src="species/palette34_Eidolon_Air_Large_animated.gif" /></div>
+<div class="isotile"><img src="species/Eidolon_Air_Large_face0_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Air_Large_face1_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Air_Large_face2_0.png" /></div>
+<div class="isotile"><img src="species/Eidolon_Air_Large_face3_0.png" /></div>
+<div class="tritile"><img src="species/palette34_Eidolon_Air_explosion_animated.gif" /></div>
+</div>
+
+</div>
+</body>
+</html>
+
