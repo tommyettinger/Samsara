@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2014-09-20T04:38:50.182000000</meta:creation-date><dc:date>2014-11-14T23:26:00.829000000</dc:date><meta:editing-duration>P6DT11H53M41S</meta:editing-duration><meta:editing-cycles>43</meta:editing-cycles><meta:generator>LibreOffice/4.3.1.2$Windows_x86 LibreOffice_project/958349dc3b25111dbca392fbc281a05559ef6848</meta:generator><meta:document-statistic meta:table-count="5" meta:cell-count="1845" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2014-09-20T04:38:50.182000000</meta:creation-date><dc:date>2014-11-17T01:59:58.690000000</dc:date><meta:editing-duration>P6DT12H6M58S</meta:editing-duration><meta:editing-cycles>45</meta:editing-cycles><meta:generator>LibreOffice/4.3.1.2$Windows_x86 LibreOffice_project/958349dc3b25111dbca392fbc281a05559ef6848</meta:generator><meta:document-statistic meta:table-count="5" meta:cell-count="2003" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,17 +13,17 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Class Details">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">14</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">31</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">1902</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">1</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">12</config:config-item>
-       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">15</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">12</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">8</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -65,13 +65,13 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Species Properties">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">15</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">19</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -81,8 +81,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Traits">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">28</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -98,7 +98,7 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">Classes</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Class Details</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">762</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -1138,7 +1138,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2014-11-14">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:39:36.157000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2014-11-17">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:39:36.157000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -4820,6 +4820,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Class Details" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co29" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co30" table:default-cell-style-name="Default"/>
@@ -4829,7 +4830,7 @@
     <table:table-column table:style-name="co15" table:number-columns-repeated="4" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co31" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co33" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:number-columns-repeated="6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co15" table:number-columns-repeated="10" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Class</text:p>
@@ -4865,7 +4866,7 @@
       <text:p>Class</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Trait 2</text:p>
+      <text:p>Trait 4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Class</text:p>
@@ -4879,7 +4880,13 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Element 5</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Class</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Trait 6</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -4930,7 +4937,17 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Advisor</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Analysis</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Alertness</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -4966,7 +4983,9 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Agent</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Mysterious</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Agent</text:p>
      </table:table-cell>
@@ -4979,7 +4998,17 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Continuum</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Agent</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Warded</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Analysis</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -5030,9 +5059,15 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Water</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Air</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Assassin</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Finesse</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Blaster</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5091,9 +5126,15 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Weapon</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>Atomic</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Brawler</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Brawn</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Brawn</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5151,9 +5192,15 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Atomic</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>Cold</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Bulwark</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Energized</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Brute</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5212,9 +5259,15 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>Earth</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Commander</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Unpredictable</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Conservation</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5273,9 +5326,15 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Light</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Electric</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Crusader</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Brute</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Devotion</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5311,7 +5370,7 @@
       <text:p>Arcane Strike</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Melee Attack, 5 SP: Make a basic Melee Attack against all adjacent targets. Does 125% damage and causes {Element Effect 2} on a hit; causes {Element Effect 1} on a miss.</text:p>
+      <text:p>Melee Attack, 5 SP: Burst Area 3. Make a basic Melee Attack against all enemies in the area. Does 125% damage and causes {Element Effect 2} on a hit; causes {Element Effect 1} on a miss.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Dervish List</text:p>
@@ -5334,9 +5393,15 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Time</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>Kinetic</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dervish</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Violence</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dexterity</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5395,9 +5460,15 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Cold</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>Light</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Guardian</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Parry</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Dodge</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5451,14 +5522,20 @@
       <text:p>No Escape</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Ranged Drain, 7 SP: Range 10. You must have at least one Suspect to use this power. Designate each of your Suspects as a Fugitive. When one of your allies hits a Fugitive with any attack, the ally gains 2 SP. The Fugitive ailment lasts for 2 rounds.</text:p>
+      <text:p>Ranged Drain, 7 SP: Range 10. You must have at least one Suspect to use this power. Designate each of your Suspects as a Fugitive. When one of your allies hits a Fugitive with any attack, the ally gains 2 SP. The Fugitive ailment lasts for 3 rounds.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Space</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Investigator</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Conservation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Energized</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5517,9 +5594,15 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Weapon</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Time</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Marksman</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Dodge</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Finesse</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5578,9 +5661,15 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Earth</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
-      <text:p>Water</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Mechanic</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Resist</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Magnitude</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -5639,7 +5728,17 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Noble</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Wisdom</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Mobility</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>Time</text:p>
      </table:table-cell>
@@ -5682,7 +5781,7 @@
       <text:p>Occultist</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Meticulous</text:p>
+      <text:p>Creative</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Occultist</text:p>
@@ -5696,7 +5795,17 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Primary List</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Occultist</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Terrify</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Nefarious</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>Water</text:p>
      </table:table-cell>
@@ -5748,12 +5857,22 @@
       <text:p>Exhaust Vent</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Zone Hazard, 7 SP: You create a visible Bombardment zone in a Burst Area 5 at up to 20 range. Enemies lose 5 Offense while they stay inside the zone. The zone lasts for 2 rounds.</text:p>
+      <text:p>Zone Hazard, 7 SP: You create a visible Miasma zone in a Burst Area 5 at up to 20 range. Enemies lose 5 Offense while they stay inside the zone. The zone lasts for 2 rounds.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Air</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilot</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Mobility</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Parry</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -5804,7 +5923,17 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Piercing</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Scout</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Blaster</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Resist</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -5814,7 +5943,7 @@
       <text:p>Rapid Research</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Talk Drain, 1 SP: Designate one enemy as your Subject. Evasion, Offense and Defense penalties you cause on your Subject are worsened by 1. The Subject ailment lasts for the encounter or until you use Rapid Research again.</text:p>
+      <text:p>Magic Drain, 1 SP: Designate one enemy as your Subject. Evasion, Offense and Defense penalties you cause on your Subject are worsened by 1. The Subject ailment lasts for the encounter or until you use Rapid Research again.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Time</text:p>
@@ -5832,7 +5961,7 @@
       <text:p>See Weakness</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Talk Drain, 3 SP: You must have a Subject to use this power. Your Subject loses 1 Offense, 2 Defense, and 1 Evasion, and any type weaknesses he has are revealed.</text:p>
+      <text:p>Magic Drain, 3 SP: You must have a Subject to use this power. Your Subject loses 1 Offense, 2 Defense, and 1 Evasion, and any type weaknesses he has are revealed.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
@@ -5850,12 +5979,22 @@
       <text:p>Spatial Clarity</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Talk Boost, 7 SP: One ally gains 5 Evasion, 1 Defense and the Hawkeye boon; this boon doubles his ranged weapons&apos; ranges, and all skills he knows with a specified range greater than 1 double that range. <text:s/>The Hawkeye boon lasts 3 rounds.</text:p>
+      <text:p>Magic Boost, 7 SP: One ally gains 5 Evasion, 1 Defense and the Hawkeye boon; this boon doubles his ranged weapons&apos; ranges, and all skills he knows with a specified range greater than 1 double that range. <text:s/>The Hawkeye boon lasts 3 rounds.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Space</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Seer</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Alertness</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Sniper</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -5906,7 +6045,17 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Darkness</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Shaman</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Wrath</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Terrify</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -5957,7 +6106,17 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Kinetic</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Skirmisher</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Sniper</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Unpredictable</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -6008,7 +6167,17 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Thief</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dexterity</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Violence</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -6059,7 +6228,17 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Trickster</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Nefarious</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Violence</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -6110,7 +6289,17 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Fire</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Trooper</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Violence</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Warded</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -6161,7 +6350,21 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Electric</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Wanderer</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Devotion</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Alertness</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Wisdom</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -6180,7 +6383,7 @@
       <text:p>Worldweaver</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Meticulous</text:p>
+      <text:p>Creative</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Worldweaver</text:p>
@@ -6207,12 +6410,28 @@
       <text:p>Infusion</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Zone Boost, 7 SP: You create a visible zone in a Burst Area 5 at up to 10 range. Allies gain {Element Affinity 3} while they stay inside the zone. Any enemy who enters the zone from outside suffers a basic Magic Attack as if from you. The zone lasts for 3 rounds.</text:p>
+      <text:p>Zone Hazard, 7 SP: You create a visible zone in a Burst Area 5 at up to 10 range. Allies gain {Element Affinity 3} while they stay inside the zone. Any enemy who enters the zone from outside suffers a basic Magic Attack as if from you. The zone lasts for 3 rounds.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Primary List</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Worldweaver</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Magnitude</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Ambusher</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>a</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Wrath</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -6263,7 +6482,19 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Blunt</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Cerpali</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Conservation</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Analysis</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -6313,6 +6544,16 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Primary Fixed</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Eidolon</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Creative</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Blaster</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -6365,6 +6606,16 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Earth</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Erezdo</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Leadership</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Brawn</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -6415,6 +6666,16 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Darkness</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Glarosp</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Nefarious</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Brute</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -6467,6 +6728,16 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Kinetic</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Human</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Energized</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Conservation</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -6513,10 +6784,20 @@
       <text:p>Mass Calm</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Magic Attack, 5 SP: Range 10, Burst Area 4. Does no damage and the target loses 2 Offense on a hit; the target loses 1 Offense on a miss.</text:p>
+      <text:p>Magic Drain, 5 SP: Range 10, Burst Area 4. Each target loses 3 Offense on a hit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Ilapa</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Warded</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Devotion</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -6569,6 +6850,16 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Time</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Kurguiv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Ambusher</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dexterity</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -6619,6 +6910,16 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Space</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Lomuk</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Brute</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dodge</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -6671,6 +6972,16 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Nodebpe</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Helpful</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Energized</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -6708,7 +7019,7 @@
       <text:p>Pelmir</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Wrath</text:p>
+      <text:p>Creative</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Pelmir</text:p>
@@ -6721,6 +7032,16 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Water</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Pelmir</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Alertness</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Finesse</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -6768,12 +7089,25 @@
       <text:p>Bombarding Pod</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Zone Hazard, 5 SP: You create a visible zone in a Burst Area 5 at up to 20 range. Any enemy who enters the zone from outside suffers a basic Ranged Attack as if from you, doing 125% damage on a hit. The zone lasts for 2 rounds.</text:p>
+      <text:p>Zone Hazard, 5 SP: You create a visible zone in a Burst Area 5 at up to 20 range. Any enemy who enters the zone from outside suffers a basic Ranged Attack as if from you with a Ray Pistol, doing 125% damage on a hit. The zone lasts for 2 rounds.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Atomic</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Robot</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Finesse</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Helpful</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -6824,7 +7158,20 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Sfyst</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Analysis</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Leadership</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -6874,6 +7221,16 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Tassar</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Unpredictable</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Magnitude</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -6926,7 +7283,20 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>None</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Uljir</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Mobility</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Creative</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -6977,10 +7347,24 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Piercing</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Vashk</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Brawn</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Mobility</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="21"/>
+     <table:table-cell table:number-columns-repeated="19"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Mysterious</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -6995,7 +7379,15 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Alertness</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Alertness</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Nefarious</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7010,7 +7402,15 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Ambusher</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Ambusher</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Parry</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7025,7 +7425,15 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Analysis</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Analysis</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Resist</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7040,7 +7448,15 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Blaster</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Blaster</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Sniper</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7055,7 +7471,15 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Brawn</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Brawn</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Terrify</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7070,102 +7494,188 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Brute</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Brute</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Unpredictable</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Conservation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Devotion</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Conservation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Conservation</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Violence</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Devotion</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Dodge</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Conservation</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Devotion</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Devotion</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Warded</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dodge</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Energized</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Devotion</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dodge</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Dodge</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Wisdom</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Energized</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Helpful</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Dodge</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Energized</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Energized</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Wrath</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dexterity</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Leadership</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Energized</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Dexterity</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Dexterity</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Finesse</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Magnitude</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Dexterity</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Finesse</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Finesse</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Meticulous</text:p>
-     </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Finesse</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Helpful</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Creative</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Helpful</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Helpful</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Leadership</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Mobility</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Leadership</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Leadership</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Magnitude</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -7173,14 +7683,18 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Helpful</text:p>
+      <text:p>Magnitude</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Magnitude</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Leadership</text:p>
+      <text:p>Creative</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -7188,14 +7702,18 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Leadership</text:p>
+      <text:p>Creative</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Creative</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Magnitude</text:p>
+      <text:p>Mobility</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -7203,14 +7721,18 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Magnitude</text:p>
+      <text:p>Mobility</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Mobility</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Meticulous</text:p>
+      <text:p>Mysterious</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
@@ -7218,14 +7740,18 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Meticulous</text:p>
+      <text:p>Mysterious</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Mysterious</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Mobility</text:p>
+      <text:p>Nefarious</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -7233,14 +7759,18 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Mobility</text:p>
+      <text:p>Nefarious</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Nefarious</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Mysterious</text:p>
+      <text:p>Parry</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -7248,29 +7778,37 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Mysterious</text:p>
+      <text:p>Parry</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Parry</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Nefarious</text:p>
+      <text:p>Resist</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Warded</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Nefarious</text:p>
+      <text:p>Resist</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Resist</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Parry</text:p>
+      <text:p>Sniper</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -7278,49 +7816,41 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Parry</text:p>
+      <text:p>Sniper</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Resist</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Resist</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Sniper</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Sniper</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Terrify</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Wrath</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Terrify</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Terrify</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Unpredictable</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10"/>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Terrify</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Unpredictable</text:p>
      </table:table-cell>
@@ -7328,18 +7858,24 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Unpredictable</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Violence</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Violence</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Violence</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7350,7 +7886,11 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Warded</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Warded</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7361,7 +7901,11 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Wisdom</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Wisdom</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="5"/>
@@ -7372,13 +7916,17 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Wrath</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Wrath</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="1048506">
-     <table:table-cell table:number-columns-repeated="21"/>
+     <table:table-cell table:number-columns-repeated="25"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="21"/>
+     <table:table-cell table:number-columns-repeated="25"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Traits" table:style-name="ta1">
@@ -7459,82 +8007,82 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Devotion</text:p>
+      <text:p>Creative</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>You gain 35% more accuracy with Magic Attacks.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Devotion</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Offense penalties you receive from Intimidate are decreased by 2, to a minimum of 0.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Dexterity</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>You gain 35% more accuracy with Melee Attacks.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Dodge</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>The accuracy of all attacks against you is reducd by 25%.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Energized</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>You gain 25% more Surge.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Finesse</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>You gain 25% more accuracy with all Attacks.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Helpful</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>The SP costs of your Boost Skills are decreased by 25% (round down).</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Leadership</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Offense bonuses you grant with Inspire are increased by 1.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Magnitude</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>The SP costs of your Skills with an Area are decreased by 25% (round down).</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Meticulous</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>You gain 35% more accuracy with Magic Attacks.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
@@ -7672,7 +8220,7 @@
       <table:sort-by table:field-number="0" table:data-type="automatic"/>
      </table:sort>
     </table:database-range>
-    <table:database-range table:name="__Anonymous_Sheet_DB__3" table:target-range-address="&apos;Class Details&apos;.J42:&apos;Class Details&apos;.J83" table:contains-header="false">
+    <table:database-range table:name="__Anonymous_Sheet_DB__3" table:target-range-address="&apos;Class Details&apos;.T1:&apos;Class Details&apos;.T65" table:contains-header="false">
      <table:sort>
       <table:sort-by table:field-number="0" table:data-type="automatic"/>
      </table:sort>
