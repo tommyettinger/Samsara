@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2014-09-20T04:38:50.182000000</meta:creation-date><dc:date>2014-11-17T01:59:58.690000000</dc:date><meta:editing-duration>P6DT12H6M58S</meta:editing-duration><meta:editing-cycles>45</meta:editing-cycles><meta:generator>LibreOffice/4.3.1.2$Windows_x86 LibreOffice_project/958349dc3b25111dbca392fbc281a05559ef6848</meta:generator><meta:document-statistic meta:table-count="5" meta:cell-count="2003" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2014-09-20T04:38:50.182000000</meta:creation-date><dc:date>2014-11-17T20:44:37.278000000</dc:date><meta:editing-duration>P6DT12H22M6S</meta:editing-duration><meta:editing-cycles>47</meta:editing-cycles><meta:generator>LibreOffice/4.3.1.2$Windows_x86 LibreOffice_project/958349dc3b25111dbca392fbc281a05559ef6848</meta:generator><meta:document-statistic meta:table-count="5" meta:cell-count="2003" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -64,8 +64,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Species Properties">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">7</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -98,7 +98,7 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">Class Details</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Species Properties</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">762</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -2137,7 +2137,7 @@
       <text:p>Cerpali</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Claw x4, Slam</text:p>
+      <text:p>Big Claw x4, Slam</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2154,8 +2154,8 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Stable</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="11" calcext:value-type="float">
-      <text:p>11</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Night Vision</text:p>
@@ -2199,7 +2199,7 @@
       <text:p>Eidolon</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam</text:p>
+      <text:p>Slam or Hand</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Glide</text:p>
@@ -2216,8 +2216,8 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Glide, Float, Hover</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="7" calcext:value-type="float">
-      <text:p>7</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Sense Eidolon, Sense Disruption</text:p>
@@ -2243,7 +2243,7 @@
       <text:p>All of this character&apos;s skills that have a single Primary Element change that Element to this character&apos;s Fixed Element. This character treats any enemy&apos;s Resistance to his Fixed Element as half normal.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Perceptive</text:p>
+      <text:p>Awareness</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Enemies gain no bonus for attacking this character from the side or back. This character still has a facing direction.</text:p>
@@ -2254,7 +2254,7 @@
       <text:p>Erezdo</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam x2</text:p>
+      <text:p>Slam, Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2305,7 +2305,7 @@
       <text:p>Gain 1 Offense.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Deflection</text:p>
+      <text:p>Covered</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Enemies who attack this character with a Ranged Attack treat this character as having 2 higher Evasion.</text:p>
@@ -2316,13 +2316,13 @@
       <text:p>Glarosp</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Bite, Talons x2, Slam</text:p>
+      <text:p>Bite, Talons or Hand x2, Slam</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Jump</text:p>
@@ -2333,8 +2333,8 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Stable</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="13" calcext:value-type="float">
-      <text:p>13</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Night Vision, Surround Vision, Sense Data</text:p>
@@ -2365,10 +2365,10 @@
       <text:p>This character is always treated as an ally, regardless of whether he is or not, by effects caused by any character on all of that character&apos;s allies.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Nimble</text:p>
+      <text:p>Awareness</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Gain 1 Evasion.</text:p>
+      <text:p>Enemies gain no bonus for attacking this character from the side or back. This character still has a facing direction.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -2376,7 +2376,7 @@
       <text:p>Human</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam</text:p>
+      <text:p>Slam, Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2436,7 +2436,7 @@
       <text:p>Ilapa</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Talons, Slam</text:p>
+      <text:p>Talons, Slam, Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2494,7 +2494,7 @@
       <text:p>Kurguiv</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Bite, Slam</text:p>
+      <text:p>Bite, Slam, Small Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Glide</text:p>
@@ -2511,8 +2511,8 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Glide, Float</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="9" calcext:value-type="float">
-      <text:p>9</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Day Vision</text:p>
@@ -2543,10 +2543,10 @@
       <text:p>This character is never harmed by Traps, and never suffers falling damage. Enemies who attack this character with a Melee Attack treat this character as having 2 higher Evasion.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Nimble</text:p>
+      <text:p>Covered</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Gain 1 Evasion.</text:p>
+      <text:p>Enemies who attack this character with a Ranged Attack treat this character as having 2 higher Evasion.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -2559,8 +2559,8 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Glide</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="6" calcext:value-type="float">
-      <text:p>6</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Jump</text:p>
@@ -2603,7 +2603,7 @@
       <text:p>Enemies who attack this character with a Ranged Attack treat this character as having 4 higher Evasion.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Perceptive</text:p>
+      <text:p>Awareness</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Enemies gain no bonus for attacking this character from the side or back. This character still has a facing direction.</text:p>
@@ -2635,7 +2635,7 @@
       <text:p>11</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Day Vision, Focused Vision, Sense Psychics</text:p>
+      <text:p>Day Vision, Focused Vision, Sense Psychics, Sense Corruption</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10"/>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
@@ -2676,7 +2676,7 @@
       <text:p>Pelmir</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam</text:p>
+      <text:p>Slam, Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2737,7 +2737,7 @@
       <text:p>Robot</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam</text:p>
+      <text:p>Slam, Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2798,7 +2798,7 @@
       <text:p>Sfyst</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam</text:p>
+      <text:p>Slam or Small Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2815,8 +2815,8 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Swim</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="15" calcext:value-type="float">
-      <text:p>15</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="16" calcext:value-type="float">
+      <text:p>16</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Night Vision, Day Vision, Surround Vision, Keen Smell, Keen Hearing, Sense Data</text:p>
@@ -2837,7 +2837,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce9"/>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Sixth Sense</text:p>
+      <text:p>Danger Sense</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Enemies who attack this character with a Ranged Attack treat this character as having 3 higher Defense.</text:p>
@@ -2849,10 +2849,10 @@
       <text:p>Gain 1 Defense.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Perceptive</text:p>
+      <text:p>Resilient</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Enemies gain no bonus for attacking this character from the side or back. This character still has a facing direction.</text:p>
+      <text:p>Persistent damage this character suffers is halved.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -2860,7 +2860,7 @@
       <text:p>Tassar</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam</text:p>
+      <text:p>Slam or Small Hand</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Glide</text:p>
@@ -2877,8 +2877,8 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Glide, Float</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="11" calcext:value-type="float">
-      <text:p>11</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Sense Disruption, Surround Vision, Night Vision, Keen Hearing</text:p>
@@ -2911,7 +2911,7 @@
       <text:p>This character is never harmed by Traps, and never suffers falling damage. Enemies who attack this character with a Melee Attack treat this character as having 2 higher Evasion.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Perceptive</text:p>
+      <text:p>Awareness</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Enemies gain no bonus for attacking this character from the side or back. This character still has a facing direction.</text:p>
@@ -2922,7 +2922,7 @@
       <text:p>Uljir</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Slam x2</text:p>
+      <text:p>Slam or Big Hand x2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
@@ -2984,7 +2984,7 @@
       <text:p>Vashk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
-      <text:p>Bite, Talons, Claws x2, Slam</text:p>
+      <text:p>Bite, Talons, Big Claws x2, Slam</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Walk</text:p>
